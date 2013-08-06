@@ -88,7 +88,7 @@
 
 -(void)addAccesoryViewToTextField:(id)textField{
     //Adding accesory bar to textField
-    
+    //Adding comment
     UIToolbar *toolbar = [[UIToolbar alloc] init];
     [toolbar setBarStyle:UIBarStyleBlackTranslucent];
     [toolbar sizeToFit];
